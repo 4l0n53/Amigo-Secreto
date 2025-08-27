@@ -24,6 +24,7 @@ El programa está desarrollado con las siguientes tecnologías:
 
 
 - Sorteo Aleatorio: Un algoritmo se encarga de realizar el sorteo de manera aleatorea.
+  
   <img width="341" height="266" alt="image" src="https://github.com/user-attachments/assets/53ab02d5-23b4-443b-9fb4-366f1b09c52f" />
 
 - Interfaz Intuitiva: Diseño limpio y fácil de usar para una experiencia de usuario fluida.
